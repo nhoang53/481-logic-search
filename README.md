@@ -1,4 +1,4 @@
-# 481-logic-search
+# 481-logic-search-python
 
 Group 2:
 	1.	Consider the master finding logic search example from module 2 part 4. Code a search system that works with the original system of 9 statements and correctly determines the location of fred given the logic and user answers to the questions
